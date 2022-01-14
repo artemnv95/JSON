@@ -5,7 +5,7 @@
   "StepsToReproduce":"steps",
   "Severity":"severity",
   "Priority":"priority",
-  "Reproducibility":"reproducibility"
+  "Reproducibility":"reproducibility",
   "Symptom":"symptom",
   "Workaround":"workaround",
   "Attachment":"attachment",
